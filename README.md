@@ -26,8 +26,8 @@ PathFinder AI is an interactive, AI-powered web app that recommends career paths
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/pathfinder-ai.git
-   cd pathfinder-ai
+   git clone https://github.com/shubanborkar/PathFinder.git
+   cd PathFinder
    ```
 2. **Install dependencies:**
    ```bash
@@ -90,7 +90,9 @@ streamlit run streamlit_app.py
 - **Developed by Shuban Borkar**
 - Powered by [Mistral AI](https://mistral.ai/) and [Streamlit](https://streamlit.io/)
 - UI icons from [Flaticon](https://flaticon.com/)
-
+- GitHub: [shubanborkar](https://github.com/shubanborkar)
+- Email: [shubanborkar@gmail.com](mailto:shubanborkar@gmail.com)
+- LinkedIn: [shubanborkar](https://www.linkedin.com/in/shuban-borkar/)
 ---
 
 ## 📜 License
